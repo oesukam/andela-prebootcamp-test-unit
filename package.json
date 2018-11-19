@@ -16,9 +16,9 @@
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-import": "^0.13.0",
-    "eslint-config-mocha": "0.0.0",
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-mocha": "^5.2.0",
     "mocha": "^5.2.0",
     "nodemon": "^1.18.6"
   },
