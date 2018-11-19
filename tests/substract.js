@@ -12,5 +12,4 @@ describe('Test The Add Function', () => {
     const sub = substract(3, 1);
     expect(sub).to.be.equal(2);
   });
-
-})
+});
