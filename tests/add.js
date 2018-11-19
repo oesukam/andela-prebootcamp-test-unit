@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 
-const { add } = require('../src/add')
+const { add } = require('../src/add');
 
 describe('Test The Add Function', () => {
   it('should failed when there is only one input', () => {
